@@ -1,15 +1,6 @@
 {
-    "python.envFile": "C:\\Users\\ADMIN\\Documents\\GitHub\\GitHub-Env",
-    "terminal.integrated.env.windows": {
-        "MY_VARIABLE": "value",
-        "ANOTHER_VARIABLE": "another_value"
-    },
-    "terminal.integrated.env.linux": {
-        "MY_VARIABLE": "value",
-        "ANOTHER_VARIABLE": "another_value"
-    },
-    "terminal.integrated.env.osx": {
-        "MY_VARIABLE": "value",
-        "ANOTHER_VARIABLE": "another_value"
-    }
+    "python.defaultInterpreterPath": "C:\\Users\\ADMIN\\Documents\\venv\\Scripts\\python.exe",
+    "python.pythonPath": "C:\\Users\\ADMIN\\Documents\\venv\\Scripts\\python.exe",
+    "jupyter.jupyterServerType": "local",
+    "jupyter.interactiveWindow.creationMode": "perFile"
 }
